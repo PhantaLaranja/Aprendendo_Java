@@ -1,3 +1,5 @@
+package coisas;
+
 public class SwitchCase {
     public static void main(String[] args) {
         int dia = 3;

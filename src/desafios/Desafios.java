@@ -1,5 +1,5 @@
-import javax.swing.*;
-import java.sql.SQLOutput;
+package desafios;
+
 import java.util.Scanner;
 
 public class Desafios {

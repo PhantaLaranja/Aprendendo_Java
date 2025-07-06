@@ -1,3 +1,5 @@
+package coisas;
+
 public class FormatterTextos {
     public static void main(String[] args) {
         String nome = "Maria";

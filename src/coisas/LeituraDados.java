@@ -1,4 +1,5 @@
-import java.sql.SQLOutput;
+package coisas;
+
 import java.util.Scanner;
 
 public class LeituraDados {
